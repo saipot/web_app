@@ -77,7 +77,7 @@
 							<phase>deploy</phase>
 
 							<goals>
-								<goal>deploy</goal>
+								<goal>pom.xml</goal>
 							</goals>
 
 							<configuration>
