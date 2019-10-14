@@ -81,10 +81,10 @@
 							</goals>
 
 							<configuration>
-								<file>project.com.webapp.project Maven Webapp</file>
-								<groupId>project.com.potnuru</groupId>
-								<artifactId>project.com.webapp.project</artifactId>
-								<version>project.0.0.1-SNAPSHOT</version>
+								<file>project/com.webapp.project</file>
+								<groupId>project/com.potnuru</groupId>
+								<artifactId>project/com.webapp.project</artifactId>
+								<version>project/0.0.1-SNAPSHOT</version>
 								<packaging>project.war</packaging>
 								<generatePom>true</generatePom>
 								<repositoryId>target/com.webapp.project</repositoryId>
